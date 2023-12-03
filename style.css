@@ -7,7 +7,7 @@
     width: 100%;
     background-size:cover;
     background-color: #797979;  
-    background-image: url("https://github.com/mahak-juriani/Web_Dev_Hackathon/blob/main/images/specials-2.jpg?raw=true") ;
+    background-image: url("https://github.com/mahak-juriani/Web_Dev_Hackathon/blob/main/images/specials-2.jpg?raw=true") !important ;
     background-blend-mode: multiply;
     display: flex;
 }
